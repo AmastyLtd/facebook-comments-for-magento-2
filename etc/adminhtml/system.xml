@@ -11,7 +11,7 @@
                 <label>General Settings</label>
                 <field id="appid" translate="label comment" type="text" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label>Facebook AppID</label>
-                    <comment>Get at http://www.facebook.com/developers/createapp.php </comment>
+                    <comment><![CDATA[Get at <a target="_blank" href="https://developers.facebook.com/apps">Facebook for Developers</a>]]></comment>
                 </field>
                 <field id="title" translate="label comment" type="text" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label>Review Title</label>
