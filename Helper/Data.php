@@ -15,13 +15,11 @@ class Data extends AbstractHelper
 
     const CONFIG_PATH_GENERAL_ASCENDING = 'amfbreview/general/ascending';
 
-    const CONFIG_PATH_DISPLAY_WIDTH = 'amfbreview/general/width';
+    const CONFIG_PATH_DISPLAY_WIDTH = 'amfbreview/display/width';
 
-    const CONFIG_PATH_DISPLAY_NOSTYLES = 'amfbreview/general/nostyles';
+    const CONFIG_PATH_DISPLAY_NOSTYLES = 'amfbreview/display/nostyles';
 
-    const CONFIG_PATH_DISPLAY_CSS = 'amfbreview/general/css';
-
-    const CONFIG_PATH_REMOVE_URL = 'amfbreview/display/disable_amasty_url';
+    const CONFIG_PATH_DISPLAY_CSS = 'amfbreview/display/css';
 
     /**
      * @param $path

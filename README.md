@@ -24,7 +24,6 @@ Facebook Comments get more customers’ trust than Magento 2 reviews because the
 
 ### Increase brand awareness
 Integration with Facebook lets your clients leave a comment about your product if they have an account in this social network and share it with friends. Chat about your Magento 2 store on Facebook will increase brand awareness and attract new customers.
-![image Info](https://amasty.com/v1597930580/media/extensions/facebook-comments-for-magento-2/magento-2-facebook-reviews-comments-onpage.png)
 
 Other users can like Facebook comments and reply right on the Magento 2 product page. Also, the extension allows sorting comments by Newest or by creation date on the frontend.
 
